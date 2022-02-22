@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with type inferencing
 - 📫 How to reach me: [@tripleo_sw](https://twitter.com/tripleo_sw)
 - ⚡ Fun fact: None of my code works!
+
+
+[Systems Software Research is Irrelevant (aka utah2000 or utah2k)](http://doc.cat-v.org/bell_labs/utah2000/utah2000.html)
