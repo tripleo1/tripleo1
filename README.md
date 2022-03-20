@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Elijah
 - 👯 I’m looking to collaborate on Elijah and Onet
 - 🤔 I’m looking for help with type inferencing
-- 📫 How to reach me: [@tripleo_sw](https://twitter.com/tripleo_sw)
+- 📫 How to reach me: [@tripleo_sw](https://twitter.com/tripleo_sw) [@tripleo@fosstodon.org](https://fosstodon.org/@tripleo)
 - ⚡ Fun fact: None of my code works!
 
 
