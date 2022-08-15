@@ -1,4 +1,4 @@
-# Hey there, hey there! 👋
+# Hey there, hey there! 👋🏾
 
 I like putting things together and taking them apart *.
 
