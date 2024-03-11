@@ -3,18 +3,10 @@
 - ⚡⚡ Fun fact: None of my code works!
 - 👯👯 More funner: Yours might, send a PR!
 
-### the ones that are more recent
+- 🤩🤩🤩 Meta awesome: https://github.com/tripleo-contribs/awesome-create-my-awesome/blob/main/README.md
 
-https://github.com/elijah-team/congenial-robot
+### Obvious links for lazy people
 
-https://github.com/elijah-team/elevated-potential
-
-https://github.com/elijah-team/persistent-pancake
-
-https://github.com/elijah-team/prolific-remnant
-
-### the underrepresented
-
-https://github.com/elijah-team/diminished-pacer
-
-https://github.com/elijah-team/fantastic-giggle
+- Elijah - https://github.com/elijah-team/.github/blob/main/profile/README.md
+- Onet - https://github.com/onet-team/
+- Jnode-revisited - https://github.com/jnode-revisited/
