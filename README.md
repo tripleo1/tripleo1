@@ -19,3 +19,9 @@
 - Process/System
 - Interaction
 - Design
+
+### More interests
+
+- "Safety"
+- Collecting
+- Being kinda wierd
