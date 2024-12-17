@@ -4,8 +4,7 @@
 - Progress will take a long time.
 - There are things you see that have no bearing on the rest of the forest.
 - I used to play :music:, but now I just listen.
-
-- 🤩🤩🤩 Meta awesome: https://github.com/tripleo-contribs/awesome-create-my-awesome/blob/main/README.md
+- Still doesn't work.
 
 ### Obvious links for lazy people
 
@@ -13,15 +12,20 @@
 - Onet - https://github.com/onet-team/
 - Jnode-revisited - https://github.com/jnode-revisited/
 
-### Interests
+### Current Interests
+
+- (i forgot)
+- Design and Presentation
+- Personal system configuration and integration (kinda the seond one)
+  
+### General Interests
 
 - Languages
 - Process/System
 - Interaction
 - Design
 
-### More interests
+### Actual interests
 
-- "Safety"
-- Collecting
-- Being kinda wierd
+- Relaxation
+- Operating machiery without "runining the experience"
