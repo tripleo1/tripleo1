@@ -14,9 +14,9 @@
 
 ### Current Interests
 
-- (i forgot)
-- Design and Presentation
-- Personal system configuration and integration (kinda the seond one)
+- jj src/ctrl and local utilities
+- maing it look pretty
+- Personal system configuration and integration (making it work)
   
 ### General Interests
 
