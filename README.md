@@ -14,9 +14,10 @@
 
 ### Current Interests
 
-- jj src/ctrl and local utilities
-- maing it look pretty
-- Personal system configuration and integration (making it work)
+- local-first version control
+- local-first system updates (should have been done already)
+- making it look pretty
+- less typos
   
 ### General Interests
 
@@ -28,4 +29,6 @@
 ### Actual interests
 
 - Relaxation
-- Operating machiery without "runining the experience"
+- Networking
+- ??
+  
