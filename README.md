@@ -1,4 +1,4 @@
-# 調子はどう? (Choushi wa desu ka?) 👋🏾
+# 調子はどう👋🏾
 
 I do things slow and wrong. I'm moving to less slow and less wrong.
 
