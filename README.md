@@ -26,7 +26,6 @@ Might not ever get arond to those, at the slow pace...
 
 ### Actual interests
 
-- Relaxation
 - Networking
 - Java
 - Music
