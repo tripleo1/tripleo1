@@ -8,15 +8,17 @@ All of this stuff is a work in progress.
 
 I like design and automation, too.
 
-Might not ever get arond to those, at the slow pace...
+Might not ever get around to those, at the slow pace...
 
 ### Obvious links for lazy people
 
 - Elijah - https://github.com/elijah-team/
+  (prob should archive...)
 - Elijah - https://github.com/elijah-tng/
-- Onet - https://github.com/onet-team/
+  (nts: write a plugin...)
 - Jnode-revisited - https://github.com/jnode-revisited/
-
+  (hermetic build)
+  
 ### Previous Interest List (no real progress)
 
 - local-first version control
