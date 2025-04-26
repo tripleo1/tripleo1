@@ -18,7 +18,12 @@ Might not ever get around to those, at the slow pace...
   (nts: write a plugin...)
 - Jnode-revisited - https://github.com/jnode-revisited/
   (hermetic build)
-  
+
+### Obvious links for everybody else
+
+- https://graydon.livejournal.com/186550.html
+- https://idontcare.com/
+
 ### Previous Interest List (no real progress)
 
 - local-first version control
