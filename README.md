@@ -1,4 +1,4 @@
-# 調子はどう(👋)
+# ПРОЛ2 (👋)
 
 I do things slow and wrong. I'm moving to less slow and less wrong.
 
