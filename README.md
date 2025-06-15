@@ -28,14 +28,17 @@ I (do not) enjoy security and networking.
 - ... darcs (obvs)
 - ... why did you never write one??
 
-### Writing work emails on leave with pay**
+### Writing work emails on leave with pay
 
 - Learn linear algebra (you are going to need this one day*)
 - * One day happens to be very much before August 1
 - Reduce procrastination
-- Spit shine your shoes (Don't use spit ;)
-- More lttr
-- ** if you have more than 1 kid, not good, amirite?
+
+### We all care
+
+- Hold hands
+- Sing
+- Find non-existent things
 
 ### Previous Interest List (no real progress)
 
