@@ -1,7 +1,7 @@
 # Greetings (👋🏾)
 
 
-I like vms and languages. (english makes me scream)
+I like vms and languages. (English makes me scream)
 
 All of this stuff is a work in progress.
 
@@ -26,19 +26,12 @@ I (do not) enjoy security and networking.
 - https://graydon.livejournal.com/186550.html
 - ... mercurial
 - ... darcs (obvs)
-- ... why did you never write one??
+- ... why did you never write one?
 
 ### Writing work emails on leave with pay
 
-- Learn linear algebra (you are going to need this one day*)
-- * One day happens to be very much before August 1
 - Reduce procrastination
-
-### We all care
-
-- Hold hands
-- Sing
-- Find non-existent things
+- We all care
 
 ### Previous Interest List (no real progress)
 
@@ -50,15 +43,17 @@ I (do not) enjoy security and networking.
 
 ### Actual interests
 
-- Networking, virt. (pv/xen, b,?, keys(ssh+yubi,etc,etc)+connections esp k3s) (why isn't this done yet?)
-- Java, I. nets
-- Jarvis (literally no comment)
-- Language (cant rip, "amd issue")
-- (This one bothers me as much as it bothers them***)
+- Networking and virtualisation
+- Languages and the interaction with hardware, esp I. nets, medley/open-genera, consoles
+- Jarvis (say something useful, hint: economical)
+- multi-kernel
+- turning everything into plan 9
 
-### *** Mutual disgust
+### Things I will never get around to
 
-- This is a major priority
-- I hvae no idea how to go about it
-- it is much harder than it looks, if you are an AI
-
+- passkeys, etc
+- super duper ai assistant
+- pv
+- xen (something about can't allocate memory)
+- kubernetes and or building docker containers with nix
+- tiger vnc
