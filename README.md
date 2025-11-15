@@ -28,6 +28,7 @@ I like design and automation, too.
 - medley, open-genera, guile
 - multi-kernel
 - vnc\* vs spice (lxd, lima/micro)
+- turnkey tree sitter
 
 
 ### VMs
