@@ -8,7 +8,6 @@ All of this stuff is a work in progress.
 
 - Elijah - https://github.com/elijah-team/
 - Elijah - https://github.com/elijah-tng/
-  (should archive)
 - Jnode-revisited - https://github.com/jnode-revisited/
 
 
