@@ -14,9 +14,5 @@ All of this stuff is a work in progress.
 
 ### Nice
 
-- pv (the russian thing)
 - xen (something about can't allocate memory)
-- medley, open-genera, guile
-- multi-kernel
-- tree sitter vs soot, et al
-- multi-kernel
+- tree sitter vs soot, etc
