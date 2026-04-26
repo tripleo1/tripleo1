@@ -21,4 +21,4 @@ All of this stuff is a work in progress.
 
 - program splicing
 - web interaction
-- something about starlark
+- starlark instead of geci
