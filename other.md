@@ -43,3 +43,10 @@ for my projects such as guix brain, rewriting dms,
 
 1. Nobody uses POC (better than GNU?)
 2. Maybe I'll review later
+
+### java 
+
+1. risc+j: that bothers me
+2. still have to compile dce, graal and ...
+3. semi-related: stealing ink/kin
+4. will figure out openliberty vs quarkus
