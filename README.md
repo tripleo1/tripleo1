@@ -13,12 +13,12 @@ All of this stuff is a work in progress.
 
 ### Tuesday
 
-- xen (something about can't allocate memory)
+- xen (something about can't allocate memory) :eyes:
 - tree sitter vs soot, etc
 
 
 ### Hopefully soon
 
 - program splicing
-- web interaction
-- starlark instead of geci
+- web interaction 
+- starlark instead of geci :averted:
