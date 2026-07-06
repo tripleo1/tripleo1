@@ -14,11 +14,17 @@ All of this stuff is a work in progress.
 ### Tuesday
 
 - xen (something about can't allocate memory) :eyes:
-- tree sitter vs soot, etc
+- tree sitter
 
 
-### Hopefully soon
+### Wednesday
+
+- starlark instead of geci (still maven...)
+- other libs (was: soot, but not necc.)
+- other things
+
+
+### Unspecified
 
 - program splicing
 - web interaction 
-- starlark instead of geci :averted:
