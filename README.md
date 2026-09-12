@@ -8,22 +8,23 @@ All of this stuff is a work in progress.
 
 - Elijah - https://github.com/elijah-team/
 - Elijah - https://github.com/elijah-tng/
-- Jnode-revisited - https://github.com/jnode-revisited/ (well fix it)
+- Jnode-revisited - https://github.com/jnode-revisited/
 
 
 ### Tuesday
 
 - xen (something about can't allocate memory) :eyes:
-- tree sitter
+- tree sitter (jn* is/could be your friend)
 
 
 ### Wednesday
 
-- other libs (was: soot, but not necc.)
-- hurt our brain and use java 8 to join nasa
+- soot and s___
+- try to prove *something*
 
 
 ### Unspecified
 
 - program splicing/slicing
 - web interaction (aka swdp)
+- hurt our brain and use java 8 to join nasa
