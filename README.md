@@ -8,7 +8,7 @@ All of this stuff is a work in progress.
 
 - Elijah - https://github.com/elijah-team/
 - Elijah - https://github.com/elijah-tng/
-- Jnode-revisited - https://github.com/jnode-revisited/
+- Jnode-revisited - https://github.com/jnode-revisited/ (well fix it)
 
 
 ### Tuesday
@@ -19,12 +19,11 @@ All of this stuff is a work in progress.
 
 ### Wednesday
 
-- starlark instead of geci (still maven...)
 - other libs (was: soot, but not necc.)
-- other things
+- hurt our brain and use java 8 to join nasa
 
 
 ### Unspecified
 
-- program splicing
-- web interaction 
+- program splicing/slicing
+- web interaction (aka swdp)
