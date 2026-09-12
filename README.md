@@ -13,18 +13,22 @@ All of this stuff is a work in progress.
 
 ### Tuesday
 
-- xen (something about can't allocate memory) :eyes:
+- xen (something about can't allocate memory)
 - tree sitter (jn* is/could be your friend)
+- hurt our brain and use java 8 to join nasa
 
 
 ### Wednesday
 
 - soot and s___
-- try to prove *something*
+- program splicing/slicing (those are two diff. things apparently)
 
 
 ### Unspecified
 
-- program splicing/slicing
+- try to prove *something*
+
+
+### Actually likely
+
 - web interaction (aka swdp)
-- hurt our brain and use java 8 to join nasa
