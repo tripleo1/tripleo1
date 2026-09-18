@@ -24,11 +24,13 @@ All of this stuff is a work in progress.
 - program splicing/slicing (those are two diff. things apparently)
 
 
-### Unspecified
-
-- try to prove *something*
-
-
-### Actually likely
+### Back burner
 
 - web interaction (aka swdp)
+
+
+### On the radar
+
+- try to prove *something*
+- try to prove something else
+- grr
