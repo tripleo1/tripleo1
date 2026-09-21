@@ -4,33 +4,14 @@
 All of this stuff is a work in progress.
 
 
-### Quick-links
+### About me
 
-- Elijah - https://github.com/elijah-team/
-- Elijah - https://github.com/elijah-tng/
-- Jnode-revisited - https://github.com/jnode-revisited/
-
-
-### Tuesday
-
-- xen (something about can't allocate memory)
-- tree sitter (jn* is/could be your friend)
-- hurt our brain and use java 8 to join nasa
+- Slightly nuts
+- Likes machines (hint)
 
 
-### Wednesday
+### Projects
 
-- soot and s___
-- program splicing/slicing (those are two diff. things apparently)
-
-
-### Back burner
-
-- web interaction (aka swdp)
-
-
-### On the radar
-
-- try to prove *something*
-- try to prove something else
-- grr
+1. `Elijah` is GPL and a highly specialized, niche antique.
+2. `fm` is less-ly specialized, and license agnostic (semi hostile).
+3. Who-knows-whats-next will be nice to people in general.
